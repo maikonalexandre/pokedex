@@ -24,7 +24,7 @@ $ yarn dev
 * [Chakra ui](https://chakra-ui.com/)
 * [phosphor icons](https://www.npmjs.com/package/react-google-login](https://phosphoricons.com/))
 * [axios](https://axios-http.com/ptbr/docs/intro)
-* [pokeapi]([https://axios-http.com/ptbr/docs/intro](https://pokeapi.co/))
+* [pokeapi](https://axios-http.com/ptbr/docs/intro](https://pokeapi.co/))
 
 <hr>
 <p align="center">Feito com 💙 por <strong>Maikon Alexandre</strong></p>
