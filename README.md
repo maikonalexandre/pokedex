@@ -22,5 +22,10 @@ $ yarn dev
 * [NextJs](https://nextjs.org/docs/api-reference/create-next-app/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Chakra ui](https://chakra-ui.com/)
-* [phosphor icons]([https://www.npmjs.com/package/react-google-login](https://phosphoricons.com/))
-* [axios]([https://axios-http.com/ptbr/docs/intro))
+* [phosphor icons](https://www.npmjs.com/package/react-google-login](https://phosphoricons.com/))
+* [axios](https://axios-http.com/ptbr/docs/intro)
+* [pokeapi]([https://axios-http.com/ptbr/docs/intro](https://pokeapi.co/))
+
+<hr>
+<p align="center">Feito com 💙 por <strong>Maikon Alexandre</strong></p>
+
